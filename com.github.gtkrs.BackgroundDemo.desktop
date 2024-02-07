@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=BackgroundDemo
+Exec=/home/ttys3/RustroverProjects/gtk4-demo/target/debug/gtk4-demo %U
+Terminal=false
+Type=Application
+Icon=com.github.gtkrs.BackgroundDemo
+StartupWMClass=BackgroundDemo
+Encoding=UTF-8
+Comment=A GTK4 background demo application
+Categories=Office;
+X-GNOME-UsesNotifications=true
